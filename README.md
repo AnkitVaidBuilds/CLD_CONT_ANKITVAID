@@ -4,6 +4,9 @@ A web application with a React frontend form that collects user information and 
 
 ## Features
 
+
+
+Plan next week
 - React frontend with a beautiful, responsive form
 - Node.js/Express backend API
 - Email sending functionality using Nodemailer and Gmail
