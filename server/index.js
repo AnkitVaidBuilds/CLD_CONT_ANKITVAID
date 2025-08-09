@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // Replace with your Gmail credentials and recipient
-const GMAIL_USER = 'yourgmail00@gmail.com'; // <-- replace with your Gmail address
+const GMAIL_USER = 'yourgmail00@gmail.com'; // 
 const GMAIL_PASS = 'your-app-password';   // <-- replace with your Gmail App Password
 const RECIPIENT_EMAIL = 'recipient@gmail.com'; // <-- replace with the recipient's email
 
