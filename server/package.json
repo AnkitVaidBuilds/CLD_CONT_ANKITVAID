@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.js00000000",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test 000 specified\" && exit 1"
